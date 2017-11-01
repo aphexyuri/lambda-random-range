@@ -1,5 +1,3 @@
-// shuffles an array of length provided by event.max, and returns array index 0-event.num
-// optional json or string as response
 // reference https://git.daplie.com/Daplie/knuth-shuffle
 
 function shuffle(array) {

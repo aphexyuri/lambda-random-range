@@ -1,6 +1,8 @@
 # lambda-random-range
 ### A Simple Lambda function to generate a number of random numbers within a given range.
 
+_Uses Fisher-Yates shuffling algorithm - see https://git.daplie.com/Daplie/knuth-shuffle_
+
 ---
 ### Input
 
